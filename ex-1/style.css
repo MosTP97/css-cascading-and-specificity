@@ -1,5 +1,5 @@
 /* Start coding here  */
-button {
+.ex-btn,.ex-btn-success,.ex-btn-warning {
   padding: 4px 15px;
   border-radius: 5px;
   font-size: 18px;
